@@ -7,3 +7,4 @@ Git has a mutable index called stage.
 
 Git tracks changes.
 
+change something and after add to commit, and submit to github.
